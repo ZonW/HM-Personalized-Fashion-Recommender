@@ -1,4 +1,6 @@
-## 1. Introduction  
+## 1. Introduction
+Project outline
+
 ## 2. Preliminary Literature Review  
 ## 3. Objectives and expected contributions  
 ## 4. Methodology  
