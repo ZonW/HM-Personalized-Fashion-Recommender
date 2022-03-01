@@ -3,9 +3,11 @@ Online shopping offers shoppers an extensive selection of products to browse thr
 ## 2. Preliminary Literature Review    
 A comprehensive review and classification of existing works on deep learning recommender models was performed by the article "Deep Learning Based Recommender System: A Survey and New Perspectives". The author classified deep learning based recommendation systems(RS) to two catagories: RS with neural building blocks and RS with deep hybrid models. The catagories are composed of different models like MLP, AE, RNN, CNN and RNN+CNN, AE+CNN respectively.     
 ![image](https://user-images.githubusercontent.com/95121369/156247844-1b2cb391-087d-4faa-8eda-7bbbb0c64dc7.png)  
-The autor also discussed challenges of current RS researches and proposed future research directions. The propsed future research direction includes joint representation learning, more explainable models for both user and researchers, RS models with more layers, machine reasoning, etc. According to the author, the baseline and dataset of RS is not as standarized as the CV/NLP community, which will create an inconsistent reporting of scores, with each autor using his/her own dataset and evaluation method. Thus, there's seemingly no consensus on the general ranking of the models.  
+The autor also discussed challenges of current RS researches and proposed future research directions. The propsed future research direction includes joint representation learning, more explainable models for both user and researchers, RS models with more layers, machine reasoning, etc.  
+To the end, the author urged RS researching community to establish a standard dataset and hidden/blinded test set for better model evaluation. According to the study, the baseline and dataset of RS is not as standarized as the CV/NLP community, which will create an inconsistent reporting of scores, with each autor using his/her own dataset and evaluation method. Thus, there's seemingly no consensus on the general ranking of the models.  
 
 ## 3. Objectives and expected contributions  
+
 ## 4. Methodology  
 ## 5. Brief Project Schedule  
  
