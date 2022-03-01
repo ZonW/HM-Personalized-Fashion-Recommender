@@ -17,4 +17,4 @@ To the end, the author urged RS researching community to establish a standard da
 | Constructing models   | a   |
 | Model Training | a  |
 | Performance evaluation | a  |
-|Research report writing | a  |
+| Research report writing | a  |
