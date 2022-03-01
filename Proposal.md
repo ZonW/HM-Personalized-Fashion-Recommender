@@ -18,3 +18,8 @@ To the end, the author urged RS researching community to establish a standard da
 | Model training | a  |
 | Performance evaluation | a  |
 | Research report writing | a  |
+
+## 6. Links and references  
+Project: https://github.com/ZonW/HM-Personalized-Fashion-Recommender  
+Kaggle: https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations  
+Reference: https://arxiv.org/abs/1707.07435
