@@ -15,6 +15,6 @@ To the end, the author urged RS researching community to establish a standard da
 | --- | --- |
 | Data preprocessing   | a   |
 | Constructing models   | a   |
-| Model Training | a  |
+| Model training | a  |
 | Performance evaluation | a  |
 | Research report writing | a  |
