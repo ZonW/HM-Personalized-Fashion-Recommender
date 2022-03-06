@@ -23,7 +23,7 @@ In this project, we will use the dataset from H&M Kaggle competition: the transa
 We will analyze existing models from previous research to find the best fit for our problem and data. Then we will use Pythorch to reproduce the models. The successfully reproduced models will be trained with the complete training dataset and then will be tested with the test dataset constructed from the original dataset. The top performers will be submitted to Kaggle to evaluate.  
 The models are classified as follows:  
   
-Recommendation with Neural Building Blocks:  
+### Recommendation with Neural Building Blocks:  
 **Multilayer Perceptron Based Recommendation**  
 1.Neural Extension of Traditional Recommendation Methods  
 2.Feature Representation Learning with MLP  
@@ -47,7 +47,7 @@ Recommendation with Neural Building Blocks:
 **Deep Reinforcement Learning for Recommendation**  
 **Adversarial Network Based Recommendation**  
 	
-Recommendation with Deep Hybrid Models：  
+### Recommendation with Deep Hybrid Models：  
 **CNNs and Autoencoder**  
 **CNNs and RNNs**  
 **RNNs and Autoencoder**  
