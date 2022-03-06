@@ -7,15 +7,16 @@ The autor also discussed challenges of current RS researches and proposed future
 To the end, the author urged RS researching community to establish a standard dataset and hidden/blinded test set for better model evaluation. According to the study, the baseline and dataset of RS is not as standarized as the CV/NLP community, which will create an inconsistent reporting of scores, with each autor using his/her own dataset and evaluation method. Thus, there's seemingly no consensus on the general ranking of the models.  
 
 ## 3. Objectives and expected contributions  
-We hereby posit two research questions, formalized in the following, and by leveraging a large H&M transactions and product dataset. We provide empirical evidence as well as theoretical grounding to answer these questions:
+We hereby posit two research questions, formalized in the following, and by leveraging a large H&M transactions and product dataset. We provide empirical evidence as well as theoretical grounding to answer these questions:  
 
-- Research Question 1 (RQ1): Using latest deep learning recommendation models to complete the competition.
+- Research Question 1 (RQ1): What are the SOTA RS models that can be efficiently implemented to this problem?  
 
-- Research Question 2 (RQ2): Building a grade algorithm to exam our deep learning model based on competition evaluation.
+- Research Question 2 (RQ2): How do those models perform against each other with the Kaggle test set?  
 
-We expect this work can make the following contributions:
+We expect this work can make the following contributions:  
 
-- We provide a machine learning approach to identify customers shopping habits.
+- We provide a deep learning approach to identify customers shopping habits and give accurate prediction to the future purchases.  
+- We quantitatively evaluate the SOTA deep learning RS models with the hidden/blinded test set provided by Kaggle.  
 
 ## 4. Methodology  
 In this paper, we will use the dataset H&M provided, the transations from 2018/09/20 to 2020/09/21; the product with price and simple descriptions; 100k images of products.
