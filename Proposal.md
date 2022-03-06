@@ -21,8 +21,38 @@ We expect this work can make the following contributions:
 ## 4. Methodology  
 In this project, we will use the dataset from H&M Kaggle competition: the transation history from 2018/09/20 to 2020/09/21; the product with price and simple descriptions; images that are corresponding to each article_id; metadata for each customer_id and article_id.  
 We will analyze existing models from previous research to find the best fit for our problem and data. Then we will use Pythorch to reproduce the models. The successfully reproduced models will be trained with the complete training dataset and then will be tested with the test dataset constructed from the original dataset. The top performers will be submitted to Kaggle to evaluate.  
-The models are classified totwo catagories: RS with neural building blocks and RS with deep hybrid models. The catagories are composed of different models like MLP, AE, RNN, CNN, GAN and RNN+CNN, AE+CNN respectively. 
-
+The models are classified as follows:  
+  
+Recommendation with Neural Building Blocks:  
+**Multilayer Perceptron Based Recommendation**  
+1.Neural Extension of Traditional Recommendation Methods  
+2.Feature Representation Learning with MLP  
+3.Recommendation with Deep Structured Semantic Model  
+**Autoencoder Based Recommendation**  
+1.Autoencoder-Based Collaborative Filtering  
+2.Feature Representation Learning with Autoencoder  
+**Convolutional Neural Networks Based Recommendation**  
+1.Feature Representation Learning with CNNs  
+2.CNN-Based Collaborative Filtering  
+3.Graph CNNs for Recommendation  
+**Recurrent Neural Networks Based Recommendation**  
+1.Session-Based Recommendation Without User Identifier  
+2.Sequential Recommendation with User Identifier  
+3.Feature Representation Learning with RNNs  
+**Restricted Boltzmann Machine Based Recommendation**  
+**Neural Attention Based Recommendation**  
+1.Recommendation with Vanilla Attention  
+2.Recommendation with Co-Attention  
+**Neural AutoRegressive Based Recommendation**  
+**Deep Reinforcement Learning for Recommendation**  
+**Adversarial Network Based Recommendation**  
+	
+Recommendation with Deep Hybrid Models：  
+**CNNs and Autoencoder**  
+**CNNs and RNNs**  
+**RNNs and Autoencoder**  
+**RNNs with DRL**  
+  
 ## 5. Brief Project Schedule  
  
 | Task                    | Assignee |
