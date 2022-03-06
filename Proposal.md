@@ -24,7 +24,7 @@ We will analyze existing models from previous research to find the best fit for 
 The models are classified as follows:  
   
 ### Recommendation with Neural Building Blocks:  
-**Multilayer Perceptron Based Recommendation**  
+1. **Multilayer Perceptron Based Recommendation**  
 1. Neural Extension of Traditional Recommendation Methods  
 2. Feature Representation Learning with MLP  
 3. Recommendation with Deep Structured Semantic Model  
