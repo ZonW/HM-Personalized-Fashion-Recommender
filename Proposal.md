@@ -19,7 +19,7 @@ We expect this work can make the following contributions:
 - We quantitatively evaluate the SOTA deep learning RS models with the hidden/blinded test set provided by Kaggle. This work can provide evidence for which model works best in real world business situations. 
 
 ## 4. Methodology  
-In this project, we will use the dataset from H&M Kaggle competition: the transation history from 2018/09/20 to 2020/09/21; the product with price and simple descriptions; images that are corresponding to each article_id; metadata for each customer_id and article_id.  
+In this project, we will use the dataset from H&M Kaggle competition: the transaction history from 2018/09/20 to 2020/09/21; the product with price and simple descriptions; images that are corresponding to each article_id; metadata for each customer_id and article_id.  
 We will analyze existing models from previous research to find the best fit for our problem and data. Then we will use Pythorch to reproduce the models. The successfully reproduced models will be trained with the complete training dataset and then will be tested with the test dataset constructed from the original dataset. The top performers will be submitted to Kaggle to evaluate.  
 The models are classified as follows:  
   
