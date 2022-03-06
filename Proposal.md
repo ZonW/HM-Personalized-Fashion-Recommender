@@ -53,7 +53,7 @@ The models are classified as follows:
 **RNNs and Autoencoder**  
 **RNNs with DRL**  
   
-## 5. Brief Project Schedule  
+## 5. Brief Project Schedule 
  
 | Task                    | Assignee |
 | ----------------------- | -------- |
