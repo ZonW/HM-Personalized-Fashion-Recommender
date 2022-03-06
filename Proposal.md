@@ -11,25 +11,27 @@ We hereby posit two research questions, formalized in the following, and by leve
 
 - Research Question 1 (RQ1): What are the SOTA RS models that can be efficiently implemented to this problem?  
 
-- Research Question 2 (RQ2): How do those models perform against each other with the Kaggle test set?  
+- Research Question 2 (RQ2): How do those models perform against each other in the Kaggle test set?  
 
 We expect this work can make the following contributions:  
 
-- We provide a deep learning approach to identify customers shopping habits and give accurate prediction to the future purchases.  
-- We quantitatively evaluate the SOTA deep learning RS models with the hidden/blinded test set provided by Kaggle.  
+- We provide deep learning approaches to identify customers shopping habits and give accurate prediction to the future purchases.  
+- We quantitatively evaluate the SOTA deep learning RS models with the hidden/blinded test set provided by Kaggle. This work can provide evidence for which model works best in real world business situations.  
 
 ## 4. Methodology  
-In this paper, we will use the dataset H&M provided, the transations from 2018/09/20 to 2020/09/21; the product with price and simple descriptions; 100k images of products.
+In this project, we will use the dataset from H&M Kaggle competition: the transation history from 2018/09/20 to 2020/09/21; the product with price and simple descriptions; images that are corresponding to each article_id; metadata for each customer_id and article_id.  
+We will analyze existing models from previous research to find the best fit for our problem and data. Then we will use Pythorch to reproduce the models. The successfully reproduced models will be trained with the complete training dataset and then will be tested with the test dataset constructed from the original dataset. The top performers will be submitted to Kaggle to evaluate.  
 
 ## 5. Brief Project Schedule  
  
 | Task                    | Assignee |
 | ----------------------- | -------- |
-| Data preprocessing      | a        |
-| Constructing models     | a        |
-| Model training          | a        |
-| Performance evaluation  | a        |
-| Research report writing | a        |
+| preliminary research on existing models| All |
+| Data preprocessing      | Lyu Zhang        |
+| Constructing models     |  Zongshuo Wei, Hechen Wang, Yufu Liao       |
+| Model training          |   All      |
+| Performance evaluation  |   All     |
+| Research report writing | All        |
 
 ## 6. Links and references  
 Project: https://github.com/ZonW/HM-Personalized-Fashion-Recommender  
