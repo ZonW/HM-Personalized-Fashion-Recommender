@@ -7,17 +7,28 @@ The autor also discussed challenges of current RS researches and proposed future
 To the end, the author urged RS researching community to establish a standard dataset and hidden/blinded test set for better model evaluation. According to the study, the baseline and dataset of RS is not as standarized as the CV/NLP community, which will create an inconsistent reporting of scores, with each autor using his/her own dataset and evaluation method. Thus, there's seemingly no consensus on the general ranking of the models.  
 
 ## 3. Objectives and expected contributions  
+We hereby posit two research questions, formalized in the following, and by leveraging a large H&M transactions and product dataset. We provide empirical evidence as well as theoretical grounding to answer these questions:
+
+- Research Question 1 (RQ1): Using latest deep learning recommendation models to complete the competition.
+
+- Research Question 2 (RQ2): Building a grade algorithm to exam our deep learning model based on competition evaluation.
+
+We expect this work can make the following contributions:
+
+- We provide a machine learning approach to identify customers shopping habits.
 
 ## 4. Methodology  
+In this paper, we will use the dataset H&M provided, the transations from 2018/09/20 to 2020/09/21; the product with price and simple descriptions; 100k images of products.
+
 ## 5. Brief Project Schedule  
  
-| Task | Assignee |
-| --- | --- |
-| Data preprocessing   | a   |
-| Constructing models   | a   |
-| Model training | a  |
-| Performance evaluation | a  |
-| Research report writing | a  |
+| Task                    | Assignee |
+| ----------------------- | -------- |
+| Data preprocessing      | a        |
+| Constructing models     | a        |
+| Model training          | a        |
+| Performance evaluation  | a        |
+| Research report writing | a        |
 
 ## 6. Links and references  
 Project: https://github.com/ZonW/HM-Personalized-Fashion-Recommender  
