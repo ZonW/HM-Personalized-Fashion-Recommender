@@ -48,10 +48,10 @@ The models are classified as follows:
 - **Adversarial Network Based Recommendation**  
 	
 ### Recommendation with Deep Hybrid Models：  
-**CNNs and Autoencoder**  
-**CNNs and RNNs**  
-**RNNs and Autoencoder**  
-**RNNs with DRL**  
+- **CNNs and Autoencoder**  
+- **CNNs and RNNs**  
+- **RNNs and Autoencoder**  
+- **RNNs with DRL**  
   
 ## 5. Brief Project Schedule 
  
