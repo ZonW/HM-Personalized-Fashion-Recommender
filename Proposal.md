@@ -55,14 +55,14 @@ The models are classified as follows:
   
 ## 5. Brief Project Schedule 
  
-| Task                    | Assignee |
-| ----------------------- | -------- |
-| Preliminary research on existing models| All |
-| Data preprocessing      | Lyu Zhang        |
-| Constructing models     |  Zongshuo Wei, Hechen Wang, Yufu Liao       |
-| Model training          |   All      |
-| Performance evaluation  |   All     |
-| Research report writing | All        |
+| Task                                    | Assignee                             |
+| --------------------------------------- | ------------------------------------ |
+| Preliminary research on existing models | All                                  |
+| Data preprocessing                      | Lyu Zhang                            |
+| Constructing models                     | Zongshuo Wei, Hechen Wang, Yufu Liao |
+| Model training                          | All                                  |
+| Performance evaluation                  | All                                  |
+| Research report writing                 | All                                  |
 
 ## 6. Links and references  
 Project: https://github.com/ZonW/HM-Personalized-Fashion-Recommender  
