@@ -24,28 +24,28 @@ We will analyze existing models from previous research to find the best fit for 
 The models are classified as follows:  
   
 ### Recommendation with Neural Building Blocks:  
-**Multilayer Perceptron Based Recommendation**  
-1. Neural Extension of Traditional Recommendation Methods  
-2. Feature Representation Learning with MLP  
-3. Recommendation with Deep Structured Semantic Model  
-**Autoencoder Based Recommendation**  
-1. Autoencoder-Based Collaborative Filtering  
-2. Feature Representation Learning with Autoencoder  
-**Convolutional Neural Networks Based Recommendation**  
-1. Feature Representation Learning with CNNs  
-2. CNN-Based Collaborative Filtering  
-3. Graph CNNs for Recommendation  
-**Recurrent Neural Networks Based Recommendation**  
-1. Session-Based Recommendation Without User Identifier  
-2. Sequential Recommendation with User Identifier  
-3. Feature Representation Learning with RNNs  
-**Restricted Boltzmann Machine Based Recommendation**  
-**Neural Attention Based Recommendation**  
-1. Recommendation with Vanilla Attention  
-2. Recommendation with Co-Attention  
-**Neural AutoRegressive Based Recommendation**  
-**Deep Reinforcement Learning for Recommendation**  
-**Adversarial Network Based Recommendation**  
+- **Multilayer Perceptron Based Recommendation**  
+  1. Neural Extension of Traditional Recommendation Methods  
+  2. Feature Representation Learning with MLP  
+  3. Recommendation with Deep Structured Semantic Model  
+- **Autoencoder Based Recommendation**  
+  1. Autoencoder-Based Collaborative Filtering  
+  2. Feature Representation Learning with Autoencoder  
+- **Convolutional Neural Networks Based Recommendation**  
+  1. Feature Representation Learning with CNNs  
+  2. CNN-Based Collaborative Filtering  
+  3. Graph CNNs for Recommendation  
+- **Recurrent Neural Networks Based Recommendation**  
+  1. Session-Based Recommendation Without User Identifier  
+  2. Sequential Recommendation with User Identifier  
+  3. Feature Representation Learning with RNNs  
+- **Restricted Boltzmann Machine Based Recommendation**  
+- **Neural Attention Based Recommendation**  
+  1. Recommendation with Vanilla Attention  
+  2. Recommendation with Co-Attention  
+- **Neural AutoRegressive Based Recommendation**  
+- **Deep Reinforcement Learning for Recommendation**  
+- **Adversarial Network Based Recommendation**  
 	
 ### Recommendation with Deep Hybrid Models：  
 **CNNs and Autoencoder**  
